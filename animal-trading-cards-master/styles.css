@@ -1,0 +1,19 @@
+.card {
+    width: 300px;
+    margin: 15px;
+    padding: 5px;
+    border: 5px double #cc6699; 
+    background-color: aquamarine;
+    position:fixed;
+}
+.fact {
+    font-style: italic;
+}
+span {
+    font-weight: bold;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
